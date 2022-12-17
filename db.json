@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ismar Begic",
+      "age": 23,
+      "company": "Enetel"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "age": 30,
+      "company": "Google"
+    },
+    {
+      "id": 3,
+      "name": "Alexa",
+      "age": 26,
+      "company": "Amazon"
+    }
+  ]
+}
